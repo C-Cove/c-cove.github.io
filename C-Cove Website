@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>AFATW's Script Hub</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="ccovething.png" class="logo">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Scripts</a></li>
+                    <li><a href="https://discord.com/api/oauth2/authorize?client_id=1134544276978683905&permissions=8&scope=bot">Bot</a></li>
+                    <li><a href="#">Discord Server</a></li>
+                </ul>
+            </div>
+
+            <div class="content">
+                <h1>C-Cove Website</h1>
+                <p>The official website for C-Cove! Be sure to join our server.</p>
+                <div>
+                    <a href="https://discord.gg/JVTfGvdYkh">
+                        <button type="button"><span></span>Discord Server</button>
+                    <a href="https://www.tiktok.com/@ccoveofficial">
+                        <button type="button"><span></span>Tik Tok</button>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </body>
+</html>
